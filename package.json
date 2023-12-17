@@ -1,0 +1,19 @@
+{
+  "name": "com.aallbright.container-runtime-tools",
+  "displayName": "Container Runtime Tools",
+  "version": "0.0.1",
+  "unity": "2022.3",
+  "description": "A custom Unity package for container runtime tools developed by Andrew Allbright.",
+  "keywords": ["container", "docker", "runtime", "tools"],
+  "author": {
+    "name": "Andrew Allbright",
+    "email": "aallbright@andrewallbright.com",
+    "url": "https://andrewallbright.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aallbrig/package-container-runtime-tools-unity.git"
+  },
+  "dependencies": {},
+  "samples": []
+}
